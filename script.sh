@@ -2,9 +2,9 @@
 set -euo pipefail
 
 # Define long image names with readable labels
-IMAGE1="ghcr.io/nixegohshs5f4ef6vuun43f6/iaw4sm7rs56v3cy7rv66v4rfgu6yu843dawsmsrbitcpyv3125:yhf3gj79bt8kytv57vttv7awsmsrbitC0003-of-three"
-IMAGE2="ghcr.io/nixegohshs5f4ef6vuun43f6/iaw4sm7rs56v3cy7rv66v4rfgu6yu843dawsmsrbitapyv3125:yhf3gj79bt8kytv57vttv7awsmsrbitA0003-of-one"
-IMAGE3="ghcr.io/nixegohshs5f4ef6vuun43f6/iaw4sm7rs56v3cy7rv66v4rfgu6yu843dawsmsrbitbpyv3125:yhf3gj79bt8kytv57vttv7awsmsrbitB0003-of-two"
+IMAGE1="ghcr.io/nixegohshs5f4ef6vuun43f6/iaw4sm7rs56v3cy7rv66v4rfgu6yu843dawsmsrbitcpyv3125:yhf3gj79bt8kytv57vttv7awsmsrbitC0004-of-three"
+IMAGE2="ghcr.io/nixegohshs5f4ef6vuun43f6/iaw4sm7rs56v3cy7rv66v4rfgu6yu843dawsmsrbitapyv3125:yhf3gj79bt8kytv57vttv7awsmsrbitA0004-of-one"
+IMAGE3="ghcr.io/nixegohshs5f4ef6vuun43f6/iaw4sm7rs56v3cy7rv66v4rfgu6yu843dawsmsrbitbpyv3125:yhf3gj79bt8kytv57vttv7awsmsrbitB0004-of-two"
 
 # Put them into an array in order
 IMAGES=("$IMAGE1" "$IMAGE2" "$IMAGE3")
